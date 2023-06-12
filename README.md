@@ -7,5 +7,6 @@ python3 main.py
 ```
 
 ### Roadmap
-[ ] Optimize (optional)
-[ ] Rewrite on `c++`
+
+- [ ] Optimize (optional)
+- [ ] Rewrite on `c++`
